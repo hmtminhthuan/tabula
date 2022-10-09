@@ -488,7 +488,7 @@ body {
 }
 
 #footer-final-content {
-  margin-left: 15px;
+  margin-left: 15px !important;
 }
 
 .bt_bb_accordion.bt_bb_color_scheme_5.bt_bb_style_filled .bt_bb_accordion_item:hover .bt_bb_accordion_item_title:before {
